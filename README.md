@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulises Miranda</h1>
-<h3 align="center">I am a passionate programming technician, frontend developer and student of the career in Engineering in Artificial Intelligence</h3>
+<h3 align="center">I am a passionate Artificial Intelligence engineer</h3>
 
-- 🔭 I’m currently working at **Emeth company on a application management system for CENEVAL as a frontend developer**
+- 🔭 I’m currently working at **Media Area company as a Artificial Intelligence engineer**
 
 - 🌱 I’m currently learning **Pytorch and Tensorflow**
 
